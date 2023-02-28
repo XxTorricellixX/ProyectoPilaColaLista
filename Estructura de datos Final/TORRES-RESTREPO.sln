@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TORRES-RESTREPO", "TORRES-RESTREPO.csproj", "{F55E2F4B-94E4-4241-B117-D605BB57C949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uTestColecciones", "..\uTestColecciones\uTestColecciones\uTestColecciones.csproj", "{1A59CE2B-2EA8-40DC-977B-1F926425A3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55E2F4B-94E4-4241-B117-D605BB57C949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55E2F4B-94E4-4241-B117-D605BB57C949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55E2F4B-94E4-4241-B117-D605BB57C949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55E2F4B-94E4-4241-B117-D605BB57C949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A59CE2B-2EA8-40DC-977B-1F926425A3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A59CE2B-2EA8-40DC-977B-1F926425A3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A59CE2B-2EA8-40DC-977B-1F926425A3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A59CE2B-2EA8-40DC-977B-1F926425A3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3817861-8B68-4495-89FD-311CDCADA1A3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "f55e2f4b-94e4-4241-b117-d605bb57c949": {
+      "ProjectGuid": "f55e2f4b-94e4-4241-b117-d605bb57c949",
+      "DisplayName": "TORRES-RESTREPO",
+      "ColorIndex": 0
+    },
+    "57f9356e-3d53-4e4c-ba43-5287b12c74f8": {
+      "ProjectGuid": "57f9356e-3d53-4e4c-ba43-5287b12c74f8",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "076595c3-de52-40aa-ad1e-af38e1110dc2": {
+      "ProjectGuid": "076595c3-de52-40aa-ad1e-af38e1110dc2",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    },
+    "1a59ce2b-2ea8-40dc-977b-1f926425a3bb": {
+      "ProjectGuid": "1a59ce2b-2ea8-40dc-977b-1f926425a3bb",
+      "DisplayName": "uTestColecciones",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

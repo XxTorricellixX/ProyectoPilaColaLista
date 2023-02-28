@@ -1,0 +1,12 @@
+C:\Users\Edwin O. Restrepo\Documents\Proyectos de Visual Studio\Codigo factorizado\TORRES-RESTREPO\bin\Debug\TORRES-RESTREPO.dll
+C:\Users\Edwin O. Restrepo\Documents\Proyectos de Visual Studio\Codigo factorizado\TORRES-RESTREPO\bin\Debug\TORRES-RESTREPO.pdb
+C:\Users\Edwin O. Restrepo\Documents\Proyectos de Visual Studio\Codigo factorizado\TORRES-RESTREPO\obj\Debug\TORRES-RESTREPO.csprojAssemblyReference.cache
+C:\Users\Edwin O. Restrepo\Documents\Proyectos de Visual Studio\Codigo factorizado\TORRES-RESTREPO\obj\Debug\TORRES-RESTREPO.csproj.CoreCompileInputs.cache
+C:\Users\Edwin O. Restrepo\Documents\Proyectos de Visual Studio\Codigo factorizado\TORRES-RESTREPO\obj\Debug\TORRES-RESTREPO.dll
+C:\Users\Edwin O. Restrepo\Documents\Proyectos de Visual Studio\Codigo factorizado\TORRES-RESTREPO\obj\Debug\TORRES-RESTREPO.pdb
+C:\Users\user\Desktop\TORRES-RESTREPO\bin\Debug\TORRES-RESTREPO.dll
+C:\Users\user\Desktop\TORRES-RESTREPO\bin\Debug\TORRES-RESTREPO.pdb
+C:\Users\user\Desktop\TORRES-RESTREPO\obj\Debug\TORRES-RESTREPO.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TORRES-RESTREPO\obj\Debug\TORRES-RESTREPO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TORRES-RESTREPO\obj\Debug\TORRES-RESTREPO.dll
+C:\Users\user\Desktop\TORRES-RESTREPO\obj\Debug\TORRES-RESTREPO.pdb
